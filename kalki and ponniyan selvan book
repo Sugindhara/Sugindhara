@@ -1,0 +1,18 @@
+#include<stdio.h>
+int main()
+{
+    int a=50525,b=40399;
+    int sum;
+printf("no od books in 1st edition:%d\n",a);
+printf("no of copies in 2nd edition:%d\n",b);
+sum=a+b;
+printf("\n total number of books:%d\n",sum);
+return 0; 
+}
+*************************************************************************
+output:
+number of books in 1st edition:50525
+number of copies in 2nd edition:40399
+
+total number of books:90924
+*************************************************************************
